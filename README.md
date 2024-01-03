@@ -1,6 +1,6 @@
 **Project Description: Wine Quality Prediction and Analysis**
 
-This project focuses on predicting the quality of wine using machine learning techniques while delving into a comprehensive analysis of various factors influencing wine quality. Leveraging datasets from Geeks for Geeks and additional data analysis, this repository offers insights into the complex dependencies between different factors and the quality of wine.
+This project focuses on predicting the quality of wine using machine learning techniques while delving into a comprehensive analysis of various factors influencing wine quality. Leveraging datasets from Kaggle and additional data analysis from Geeks for Geeks, this repository offers insights into the complex dependencies between different factors and the quality of wine.
 
 **Highlights:**
 
